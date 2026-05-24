@@ -5,12 +5,13 @@ Distinguir e empregar as diversas metodologias e conceitos de desenvolvimento de
 # 🚀 Algoritmos e Lógica de Programação
 ## Roadmap Oficial da Disciplina
 
-Desenvolvimento de Algoritmos com Python, Estruturas de Programação, Modularização e Versionamento.
+Desenvolvimento de Algoritmos com Python, Estruturas de Programação, Modularização, Versionamento e Desenvolvimento Progressivo de Projeto.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Algoritmos](https://img.shields.io/badge/Algoritmos-Lógica-success)
 ![Git](https://img.shields.io/badge/Git-Versionamento-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-Repositório-black)
+![Render](https://img.shields.io/badge/Deploy-Render-purple)
 ![VSCode](https://img.shields.io/badge/IDE-VSCode-blueviolet)
 
 ---
@@ -19,7 +20,7 @@ Desenvolvimento de Algoritmos com Python, Estruturas de Programação, Modulariz
 
 A disciplina de **Algoritmos e Lógica de Programação** tem como objetivo desenvolver o raciocínio lógico e computacional dos alunos utilizando Python como ferramenta principal para resolução de problemas computacionais.
 
-Durante o semestre iremos construir gradualmente um projeto completo aplicando conceitos fundamentais de programação estruturada.
+Durante o semestre iremos construir gradualmente um projeto completo aplicando conceitos fundamentais de programação estruturada, organização de código e desenvolvimento de sistemas.
 
 ---
 
@@ -43,18 +44,35 @@ Durante toda a disciplina iremos desenvolver progressivamente um sistema complet
 # 📦 Projeto:
 ## Sistema de Gestão Comercial
 
-Ao longo das aulas o projeto evoluirá contendo funcionalidades como:
+O sistema será evoluído gradualmente durante as aulas.
+
+Ao longo do semestre iremos implementar:
 
 ✅ Cadastro de produtos  
 ✅ Cadastro de clientes  
 ✅ Controle de pedidos  
 ✅ Controle de estoque  
 ✅ Relatórios simples  
+✅ Menus interativos  
 ✅ Estruturas condicionais  
 ✅ Estruturas de repetição  
 ✅ Funções  
 ✅ Vetores e matrizes  
 ✅ Modularização  
+✅ Organização de código  
+
+---
+
+# 🌐 Projeto Final da Disciplina
+
+Ao final do semestre o sistema será:
+
+✅ Versionado no GitHub  
+✅ Organizado em repositório profissional  
+✅ Documentado com README  
+✅ Publicado online no Render  
+
+👉 permitindo que os alunos tenham um projeto completo para portfólio.
 
 ---
 
@@ -215,8 +233,9 @@ A disciplina será dividida em módulos evolutivos.
 ## Aula 20
 - Finalização do projeto
 - Organização final
-- Apresentação do sistema
-- Entrega final
+- README profissional
+- Deploy no Render
+- Apresentação final do sistema
 
 ---
 
