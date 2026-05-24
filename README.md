@@ -265,9 +265,9 @@ A disciplina será dividida em módulos evolutivos.
 
 ---
 
-# 🌐 Repositório da Disciplina
+# 🌐 Repositório do Projeto da Disciplina
 
 📌 Link do repositório:
 
 ```txt
-https://github.com/SEU_USUARIO/algoritmos-logica-programacao
+https://github.com/WellingtonRoque/Projeto_ALP.git
